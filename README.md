@@ -1,11 +1,13 @@
-### Hi there 👋
-
-🔭 I’m currently working on Developer at Facility Route, teacher on <a href="https://feevale.br/">Feevale</a> and <a href="http://www.duque.g12.br/">Duque</a>.
-🌱 I’m currently learning Flutter
-👯 I’m looking to collaborate on make videos at YouTube free for you!! Enjoy it and <h href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">subscribe</a>. 
-🤔 I’m looking for help with academic works. See my <a href="http://lattes.cnpq.br/9414932542121207">lattes</a>.
-💬 Ask me about Java, PHP and data science.
-📫 How to reach me:  
+### Hi there 👋I'm happy with you here! Can I help you?
+🔭 I’m currently working on Developer at Facility Route, teacher on <a href="https://feevale.br/">Feevale</a> and <a href="http://www.duque.g12.br/">Duque</a>.<br>
+🌱 I’m currently learning Flutter<br>
+👯 I’m looking to collaborate on make videos at YouTube free for you!! Enjoy it and <h href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">🎯 subscribe🎯 </a>. <br>
+🤔 I’m looking for help with academic works. See my <a href="http://lattes.cnpq.br/9414932542121207">lattes</a>.<br>
+💬 Ask me about Java, PHP and data science.<br>
+<br>
+🎓☕🍭🎫⚙📉📌♻🌐💬🍓🍇🍉🈷️💯✅👨‍💼🎊💻
+📫 How to reach me:
+<hr>
 <table border="0">
 	<tbody>
 		<tr>
@@ -22,6 +24,7 @@
 		</tr>
 	</tbody>
 </table>
+<hr>
 ⚡ Fun fact: cooking, travel, walking around nature with my son and my wife
 
 <!--
