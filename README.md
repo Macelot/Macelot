@@ -14,7 +14,7 @@
 			<td valign="middle"><a href="https://www.facebook.com/marcelojosuetelles"><img alt="" height="32" src="https://facilityroute.com/images/fb.png" /></a></td>
 			<td valign="middle"><a href="https://www.instagram.com/marcelojtelles/"><img alt="" height="32" src="https://facilityroute.com/images/instagram-circle-icon.png" /></a></td>
 			<td valign="middle"><a href="https://br.pinterest.com/marcelotelles14/"><img alt="" height="32" src="https://facilityroute.com/images/pinterest-512.png" /></a></td>
-			<td valign="middle"><a href="https://twitter.com/#!/marcelojtelles"><img alt="" height="32" src="https://facilityroute.com/images/077_twitter-512.webp"  /></a></td>
+			<td valign="middle"><a href="https://twitter.com/#!/marcelojtelles"><img alt="" height="32" src="https://facilityroute.com/images/tw2.png" /></a></td>
 			<td valign="middle"><a href="https://medium.com/@marcelotelles_18526"><img alt="" height="32" src="https://facilityroute.com/images/medium.png" /></a></td>
 			<td valign="middle"><a href="http://lattes.cnpq.br/9414932542121207"><img alt="" height="32" src="https://facilityroute.com/images/lattes.png"  /></a></td>
 			<td valign="middle"><a href="https://bit.ly/atualprof"><img alt="" height="32" src="https://facilityroute.com/images/siteweb.png"/></a></td>
