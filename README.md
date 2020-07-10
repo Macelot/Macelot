@@ -5,9 +5,9 @@
 🤔 I’m looking for help with academic works. See my <a href="http://lattes.cnpq.br/9414932542121207">lattes</a>.<br>
 💬 Ask me about Java, PHP and data science.<br>
 <br>
-🎓☕🍭🎫⚙📉📌♻🌐💬🍓🍇🍉🈷️💯✅👨‍💼🎊💻
+🎓☕🍭🎫⚙📉📌♻🌐💬🍓🍇🍉🈷️💯✅👨‍💼🎊💻<br>
 📫 How to reach me:
-<hr>
+
 <table border="0">
 	<tbody>
 		<tr>
