@@ -1,5 +1,5 @@
 ### Hi there 👋I'm happy with you here! Can I help you?
-🔭 I’m currently working on Developer💻 at Facility Route, teacher🎓 on <a href="https://feevale.br/">Feevale</a> and <a href="http://www.duque.g12.br/">Duque</a>.<br>
+🔭 I’m currently working on Developer💻 at Facility Route, teacher🎓 on <a href="https://feevale.br/">Feevale</a>.<br>
 🌱 I’m currently learning Flutter<br>
 👯 I’m looking to collaborate on make videos at YouTube free for you!! Enjoy it and <a href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">🎯 subscribe🎯 </a>. <br>
 🤔 I’m looking for help with academic works. See my <a href="http://lattes.cnpq.br/9414932542121207">🎓lattes🎓</a>.<br>
