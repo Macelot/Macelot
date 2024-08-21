@@ -2,7 +2,7 @@
 🔭 I’m currently working as a Developer 💻 at Facility Route and as a teacher 🎓 at <a href="https://feevale.br/">Feevale</a>.<br>
 🌱 I’m currently learning mobile development and entrepreneurship.<br>
 👯 I’m looking to collaborate on creating free videos for YouTube. Enjoy them and <a href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">🎯 subscribe🎯 </a>. <br>
-🤔 I’m seeking help with academic work. Check out my 🎓 <a href="http://lattes.cnpq.br/9414932542121207"Lattes profile </a> 🎓.<br>
+🤔 I’m seeking help with academic work. Check out my 🎓 <a href="http://lattes.cnpq.br/9414932542121207">Lattes profile </a> 🎓.<br>
 💬 Feel free to ask me about Java ☕, PHP 🌐, and data science 📉.<br>
 <br>
 <br>
