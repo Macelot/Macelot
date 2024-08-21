@@ -8,7 +8,6 @@
 <br>
 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/marcelojtelles" rel="nofollow"><img src="https://camo.githubusercontent.com/a118aeb54f363369c100082ba11c33328fdb6fcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f76616e657373612d7269626569726f2d6b6f63682d31333437393262382f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/in/marcelojtelles" style="max-width:100%;"></a>
 <a href="https://github.com/macelot"><img src="https://facilityroute.com/images/rs/-Github-000.svg"></a>
 <a href="https://www.facebook.com/marcelojosuetelles"><img alt="" src="https://facilityroute.com/images/rs/-Facebook-3b579d.svg"/></a></td>
 <a href="https://br.pinterest.com/marcelotelles14/"><img alt="" src="https://facilityroute.com/images/rs/-Pinterest-BD081C.svg"/></a></td>
