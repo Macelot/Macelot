@@ -1,9 +1,9 @@
 ### Hi there 👋I'm happy with you here! Can I help you?
-🔭 I’m currently working on Developer💻 at Facility Route, teacher🎓 on <a href="https://feevale.br/">Feevale</a>.<br>
-🌱 I’m currently learning mobile dev and entrepreneurship.<br>
-👯 I’m looking to collaborate on make videos at YouTube free for you!! Enjoy it and <a href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">🎯 subscribe🎯 </a>. <br>
-🤔 I’m looking for help with academic works. See my <a href="http://lattes.cnpq.br/9414932542121207">🎓lattes🎓</a>.<br>
-💬 Ask me about Java☕, PHP🌐 and data science📉.<br>
+🔭 I’m currently working as a Developer 💻 at Facility Route and as a teacher 🎓 at Feevale <a href="https://feevale.br/">Feevale</a>.<br>
+🌱 I’m currently learning mobile development and entrepreneurship.<br>
+👯 I’m looking to collaborate on creating free videos for YouTube. Enjoy them and <a href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">🎯 subscribe🎯 </a>. <br>
+🤔 I’m seeking help with academic work. Check out my 🎓 <a href="http://lattes.cnpq.br/9414932542121207"Lattes profile </a> 🎓.<br>
+💬 Feel free to ask me about Java ☕, PHP 🌐, and data science 📉.<br>
 <br>
 <br>
 📫 How to reach me:
