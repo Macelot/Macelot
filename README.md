@@ -6,13 +6,13 @@
 💬 Feel free to ask me about Java ☕, PHP 🌐, and data science 📉.<br>
 <br>
 <br>
-📫 How to reach me:
+
 
 <a href="https://github.com/macelot"><img src="https://facilityroute.com/images/rs/-Github-000.svg"></a>
-<a href="https://www.facebook.com/marcelojosuetelles"><img alt="" src="https://facilityroute.com/images/rs/-Facebook-3b579d.svg"/></a></td>
-<a href="https://br.pinterest.com/marcelotelles14/"><img alt="" src="https://facilityroute.com/images/rs/-Pinterest-BD081C.svg"/></a></td>
-<a href="https://medium.com/@marcelotelles_18526"><img alt="" src="https://facilityroute.com/images/rs/-Medium-000.svg"/></a></td>
-<a href="mailto:marcelojtelles@gmail.com"><img alt="" src="https://facilityroute.com/images/rs/-Gmail-c14438.svg"/></a></td>
+<a href="https://www.facebook.com/marcelojosuetelles"><img alt="" src="https://facilityroute.com/images/rs/-Facebook-3b579d.svg"/></a><
+<a href="https://br.pinterest.com/marcelotelles14/"><img alt="" src="https://facilityroute.com/images/rs/-Pinterest-BD081C.svg"/></a><
+<a href="https://medium.com/@marcelotelles_18526"><img alt="" src="https://facilityroute.com/images/rs/-Medium-000.svg"/></a>
+<a href="mailto:marcelojtelles@gmail.com"><img alt="" src="https://facilityroute.com/images/rs/-Gmail-c14438.svg"/></a>
 
 
 <br>
