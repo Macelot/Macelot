@@ -4,27 +4,6 @@
 👯 I’m looking to collaborate on creating free videos for YouTube. Enjoy them and <a href="https://www.youtube.com/c/marcelojtelles?sub_confirmation=1">🎯 subscribe🎯 </a>. <br>
 🤔 I’m seeking help with academic work. Check out my 🎓 <a href="http://lattes.cnpq.br/9414932542121207">Lattes profile </a> 🎓.<br>
 💬 Feel free to ask me about Java ☕, PHP 🌐, and data science 📉.<br>
-<br>
-<br>
-
-
-<a href="https://github.com/macelot"><img src="https://facilityroute.com/images/rs/-Github-000.svg"></a>
-<a href="https://www.facebook.com/marcelojosuetelles"><img alt="" src="https://facilityroute.com/images/rs/-Facebook-3b579d.svg"/></a><
-<a href="https://br.pinterest.com/marcelotelles14/"><img alt="" src="https://facilityroute.com/images/rs/-Pinterest-BD081C.svg"/></a><
-<a href="https://medium.com/@marcelotelles_18526"><img alt="" src="https://facilityroute.com/images/rs/-Medium-000.svg"/></a>
-<a href="mailto:marcelojtelles@gmail.com"><img alt="" src="https://facilityroute.com/images/rs/-Gmail-c14438.svg"/></a>
-
-
-<br>
-<a href="https://www.youtube.com/c/marcelojtelles"><img alt="" height="32" src="https://facilityroute.com/images/you.png"/></a>
-<a href="https://www.instagram.com/marcelojtelles/"><img alt="" height="32" src="https://facilityroute.com/images/instagram-circle-icon.png"/></a>
-<a href="https://twitter.com/#!/marcelojtelles"><img alt="" height="32" src="https://facilityroute.com/images/tw2.png"/></a>
-<a href="http://lattes.cnpq.br/9414932542121207"><img alt="" height="32" src="https://facilityroute.com/images/lattes.png"/></a>
-<a href="https://bit.ly/atualprof"><img alt="" height="32" src="https://facilityroute.com/images/siteweb.png"/></a>
-<a href="https://facilityroute.com"><img alt="" height="32" src="https://facilityroute.com/images/logo-site-facilityorute2.png"/></a>
-
-
-
 
 <hr>
 ⚡ Fun fact: cooking, travel, walking around nature with my son and my wife
